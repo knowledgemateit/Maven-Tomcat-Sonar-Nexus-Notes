@@ -1,1 +1,1 @@
-# smoketest
+# maven-first-project
