@@ -1,4 +1,4 @@
-# ☕ Maven & DevOps Tools – Complete Quick Reference Guide
+# ☕ Maven,Tomcat,Sonar,Nexus Tools – Complete Quick Reference Guide
 
 > Covers Maven build lifecycle, Tomcat deployment, SonarQube code analysis, and Nexus artifact management — all the essentials for a Java CI/CD pipeline.
 
